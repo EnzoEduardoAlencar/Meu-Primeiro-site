@@ -1,0 +1,26 @@
+[Título]Meu Primeiro site
+
+[Menu]
+Home
+cadastrar
+sobre mim
+Fale conosco
+
+[conteúdo]
+
+[título]Criação do site
+
+Este site foi feito como um texte de criação de sites, como aprendisagem, eu desenvolvi este site.
+
+[título]aprendizado
+
+Eu estou estudando sobre criação de sites em html e CSS, e estou fazendo este projeto para praticar, meus estudos foram feitos pela internet, mais especificamente pelo YouTube, e tembém um site chamado CursoemVideo que possui varios cursos gratuitos de tecnologia, eu estou estudando no curso de HTML5 e CSS3 com um professor chamado Gustavo Guanabara.
+
+[título]como fiz este site
+
+Este site foi feito totalmente Gratuito, eu usei um editor de código chamado de Visual Studio Code para fazer a programação deste site, e eu uso o Github como repositório, e também para hospedagem com o Github pages
+  
+[/conteúdo]
+
+[roda pé] Site desenvolvido por Enzo Eduardo
+
